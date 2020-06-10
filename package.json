@@ -1,0 +1,17 @@
+{
+  "name": "bootcss",
+  "version": "1.0.0",
+  "description": "Meu boot.css",
+  "main": "boot.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPedroDiasMonteiro/boot-css.git"
+  },
+  "keywords": [],
+  "author": "joaopedrodias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPedroDiasMonteiro/boot-css/issues"
+  },
+  "homepage": "https://github.com/JoaoPedroDiasMonteiro/boot-css#readme"
+}
